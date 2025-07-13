@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**BHASVIC-SolomonLodge24/BHASVIC-SolomonLodge24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## About
+### Personal
+A Level Computer Science student
+### Career thoughts etc.
+I want to be an archivist.
+### Currently working on
+- Computer Science A Level
+    - Programming project: visual and hexadecimal image editor
+### Qualifications
+- Computer Science GCSE
+## Repositories
+- 'Four in a Row' in [java-lessons-solomon-lodge](https://github.com/BHASVIC-CompSci/java-lessons-solomon-lodge)
